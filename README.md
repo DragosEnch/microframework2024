@@ -10,4 +10,4 @@ Les différentes colonnes contenues dans une ligne occuperont équitablement l'e
 
 Copiez la balise suivante dans l'en-tête de la page HTML où vous voulez utiliser le Microframework :
 
-<link rel="stylesheet" href="https://dragosench.github.io/microframework2024/Microframework.css">
+&lt;link rel="stylesheet" href="https://dragosench.github.io/microframework2024/Microframework.css">
